@@ -1,0 +1,79 @@
+[
+ {
+  "Column": 2004,
+  "White": 7,
+  "Black": 13,
+  "Asian": 7,
+  "Hispanic": 10
+ },
+ {
+  "Column": 2005,
+  "White": 6,
+  "Black": 13,
+  "Asian": 6,
+  "Hispanic": 9
+ },
+ {
+  "Column": 2006,
+  "White": 5.5,
+  "Black": 11,
+  "Asian": 5,
+  "Hispanic": 8
+ },
+ {
+  "Column": 2007,
+  "White": 5.5,
+  "Black": 10.5,
+  "Asian": 5,
+  "Hispanic": 9
+ },
+ {
+  "Column": 2008,
+  "White": 7,
+  "Black": 13,
+  "Asian": 6,
+  "Hispanic": 11
+ },
+ {
+  "Column": 2009,
+  "White": 11,
+  "Black": 17,
+  "Asian": 11.5,
+  "Hispanic": 17
+ },
+ {
+  "Column": 2010,
+  "White": 11,
+  "Black": 19,
+  "Asian": 11.5,
+  "Hispanic": 17
+ },
+ {
+  "Column": 2011,
+  "White": 10,
+  "Black": 18.5,
+  "Asian": 11,
+  "Hispanic": 16
+ },
+ {
+  "Column": 2012,
+  "White": 9,
+  "Black": 17,
+  "Asian": 9,
+  "Hispanic": 14.5
+ },
+ {
+  "Column": 2013,
+  "White": 8.5,
+  "Black": 16,
+  "Asian": 7.5,
+  "Hispanic": 13
+ },
+ {
+  "Column": 2014,
+  "White": 7,
+  "Black": 14,
+  "Asian": 7,
+  "Hispanic": 11
+ }
+]
