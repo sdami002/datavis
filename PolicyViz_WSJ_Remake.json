@@ -1,0 +1,106 @@
+{
+"DATA":[
+ {
+  "Column1": 2004,
+  "White": 7,
+  "Black": 13,
+  "Asian": 7,
+  "Hispanic": 10
+ },
+ {
+  "Column1": 2005,
+  "White": 6,
+  "Black": 13,
+  "Asian": 6,
+  "Hispanic": 9
+ },
+ {
+  "Column1": 2006,
+  "White": 5.5,
+  "Black": 11,
+  "Asian": 5,
+  "Hispanic": 8
+ },
+ {
+  "Column1": 2007,
+  "White": 5.5,
+  "Black": 10.5,
+  "Asian": 5,
+  "Hispanic": 9
+ },
+ {
+  "Column1": 2008,
+  "White": 7,
+  "Black": 13,
+  "Asian": 6,
+  "Hispanic": 11
+ },
+ {
+  "Column1": 2009,
+  "White": 11,
+  "Black": 17,
+  "Asian": 11.5,
+  "Hispanic": 17
+ },
+ {
+  "Column1": 2010,
+  "White": 11,
+  "Black": 19,
+  "Asian": 11.5,
+  "Hispanic": 17
+ },
+ {
+  "Column1": 2011,
+  "White": 10,
+  "Black": 18.5,
+  "Asian": 11,
+  "Hispanic": 16
+ },
+ {
+  "Column1": 2012,
+  "White": 9,
+  "Black": 17,
+  "Asian": 9,
+  "Hispanic": 14.5
+ },
+ {
+  "Column1": 2013,
+  "White": 8.5,
+  "Black": 16,
+  "Asian": 7.5,
+  "Hispanic": 13
+ },
+ {
+  "Column1": 2014,
+  "White": 7,
+  "Black": 14,
+  "Asian": 7,
+  "Hispanic": 11
+ }
+],
+"Notes":[
+ null,
+ {
+  "This file is provided to you by PolicyViz.": "Learn more about how PolicyViz can help you do a better job process, analyze, share, and present your data."
+ },
+ null,
+ {
+  "This file is provided to you by PolicyViz.": "Visit PolicyViz for resources about data visualization and presentation skills:"
+ },
+ {
+  "This file is provided to you by PolicyViz.": "-Submit your visualizations to HelpMeViz to receive feedback and advice about your visualization challenges. "
+ },
+ {
+  "This file is provided to you by PolicyViz.": "-Listen to the weekly PolicyViz Podcast to learn more about data visualization, open data, tools, presentations, and more."
+ },
+ {
+  "This file is provided to you by PolicyViz.": "-Purchase Better Presentations: A Guide for Scholars, Researchers, and Wonks to learn how to deliver data-rich presentations. "
+ },
+ {
+  "This file is provided to you by PolicyViz.": "-Visit the Better Presentations website to download PowerPoint files, icons, worksheets and more."
+ },
+ {
+  "This file is provided to you by PolicyViz.": "-Purchase the step-by-step Excel e-books to extend the data visualization capabilities of Excel in the PolicyViz Shop."
+ }
+]
+}
