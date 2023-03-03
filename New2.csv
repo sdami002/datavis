@@ -1,0 +1,1001 @@
+administration_date,fips,locality,health_region,facility_type,vaccine_manufacturer,dose_number,vaccine_doses_administered
+2023-02-22T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Moderna BV,4,2
+2023-02-22T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Pfizer 5-11,2,1
+2023-02-22T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Pfizer 5-11,1,1
+2023-02-22T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Moderna BV,3,2
+2023-02-22T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Pfizer 0-4,1,1
+2023-02-22T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Moderna BV,5,2
+2023-02-22T00:00:00.000,51003,Albemarle,Eastren,Other Community Health Providers,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer 0-4,2,1
+2023-02-22T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Moderna 0-5,1,1
+2023-02-22T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer 0-4,1,1
+2023-02-22T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer 5-11,1,2
+2023-02-22T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer BV 12+,4,2
+2023-02-22T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer,1,1
+2023-02-22T00:00:00.000,51003,Albemarle,Eastren,Other Community Health Providers,Moderna BV,5,1
+2023-02-22T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Moderna BV,3,3
+2023-02-22T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Moderna BV,4,1
+2023-02-22T00:00:00.000,51009,Amherst,Southwest,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer 0-4,2,5
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer 5-11,2,4
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Moderna 0-5,2,2
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer BV 12+,4,12
+2023-02-22T00:00:00.000,51013,Northern,Northern,Local Health Departments,Moderna 0-5,1,1
+2023-02-22T00:00:00.000,51013,Northern,Northern,Pharmacies,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51013,Northern,Northern,Pharmacies,Pfizer BV 12+,3,2
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Moderna 0-5,1,2
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51013,Northern,Northern,Other Community Health Providers,Pfizer BV 5-11,3,1
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Moderna BV,4,2
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer BV 12+,3,3
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer BV 5-11,3,1
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer BV 5-11,4,3
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer 5-11,1,3
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer 0-4,1,2
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer BV 0-4,3,4
+2023-02-22T00:00:00.000,51013,Northern,Northern,Other Community Health Providers,Pfizer 0-4,2,2
+2023-02-22T00:00:00.000,51013,Northern,Northern,Local Health Departments,Moderna BV 0-5,3,2
+2023-02-22T00:00:00.000,51013,Northern,Northern,Medical Practices,Moderna BV 0-5,3,5
+2023-02-22T00:00:00.000,51015,Augusta,Northwest,Hospitals,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51015,Augusta,Northwest,Pharmacies,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51015,Augusta,Northwest,Medical Practices,Pfizer BV 12+,4,2
+2023-02-22T00:00:00.000,51015,Augusta,Northwest,Medical Practices,Moderna BV,5,1
+2023-02-22T00:00:00.000,51015,Augusta,Northwest,Medical Practices,Pfizer BV 12+,5,3
+2023-02-22T00:00:00.000,51019,Bedford,Southwest,Pharmacies,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51023,Botetourt,Southwest,Pharmacies,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51027,Buchanan,Southwest,Pharmacies,Moderna BV,5,1
+2023-02-22T00:00:00.000,51029,Buckingham,Central,Other Community Health Providers,Moderna BV,3,1
+2023-02-22T00:00:00.000,51029,Buckingham,Central,Other Community Health Providers,Moderna BV,5,1
+2023-02-22T00:00:00.000,51029,Buckingham,Central,Other Community Health Providers,Moderna BV,4,1
+2023-02-22T00:00:00.000,51033,Caroline,Northwest,Other Community Health Providers,Moderna BV,5,1
+2023-02-22T00:00:00.000,51033,Caroline,Northwest,Other Community Health Providers,Moderna BV,3,1
+2023-02-22T00:00:00.000,51033,Caroline,Northwest,Hospitals,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51037,Charlotte,Central,Other Community Health Providers,Moderna BV,5,1
+2023-02-22T00:00:00.000,51037,Charlotte,Central,Pharmacies,Moderna BV,5,1
+2023-02-22T00:00:00.000,51037,Charlotte,Central,Other Community Health Providers,Moderna BV,4,1
+2023-02-22T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer 0-4,1,1
+2023-02-22T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer 5-11,2,1
+2023-02-22T00:00:00.000,51041,Central,Central,Pharmacies,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51041,Central,Central,Pharmacies,Moderna BV,4,2
+2023-02-22T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51041,Central,Central,Pharmacies,Pfizer BV 12+,3,3
+2023-02-22T00:00:00.000,51041,Central,Central,Hospitals,Moderna BV,4,1
+2023-02-22T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer 5-11,1,1
+2023-02-22T00:00:00.000,51041,Central,Central,Other Community Health Providers,Moderna BV,3,1
+2023-02-22T00:00:00.000,51041,Central,Central,Other Community Health Providers,Moderna BV,5,1
+2023-02-22T00:00:00.000,51041,Central,Central,Hospitals,Pfizer 0-4,1,2
+2023-02-22T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer BV 12+,3,2
+2023-02-22T00:00:00.000,51041,Central,Central,Hospitals,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer 0-4,2,3
+2023-02-22T00:00:00.000,51047,Culpeper,Northwest,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51047,Culpeper,Northwest,Medical Practices,Pfizer 5-11,1,1
+2023-02-22T00:00:00.000,51049,Cumberland,Central,Pharmacies,Moderna BV,4,2
+2023-02-22T00:00:00.000,51051,Dickenson,Southwest,Other Community Health Providers,Pfizer,2,1
+2023-02-22T00:00:00.000,51053,Dinwiddie,Central,Hospitals,Pfizer 0-4,2,1
+2023-02-22T00:00:00.000,51057,Essex,Eastern,Hospitals,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51057,Essex,Eastern,Other Community Health Providers,Moderna BV,5,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer 0-4,2,13
+2023-02-22T00:00:00.000,51059,Northern,Northern,Pharmacies,Pfizer BV 12+,5,4
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer BV 5-11,3,5
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer BV 12+,5,13
+2023-02-22T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer 5-11,1,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Pharmacies,Pfizer BV 12+,3,4
+2023-02-22T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,4,8
+2023-02-22T00:00:00.000,51059,Northern,Northern,Local Health Departments,Pfizer BV 0-4,3,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Local Health Departments,Pfizer BV 12+,5,3
+2023-02-22T00:00:00.000,51059,Northern,Northern,Local Health Departments,Pfizer 12+,2,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Local Health Departments,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer BV 0-4,3,6
+2023-02-22T00:00:00.000,51059,Northern,Northern,Hospitals,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Local Health Departments,Pfizer BV 12+,2,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Moderna BV,4,5
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer 5-11,2,3
+2023-02-22T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer BV 5-11,3,2
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Moderna 0-5,1,4
+2023-02-22T00:00:00.000,51059,Northern,Northern,Pharmacies,Pfizer BV 12+,4,12
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer BV 12+,3,22
+2023-02-22T00:00:00.000,51059,Northern,Northern,Pharmacies,Novavax,3,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer 5-11,1,3
+2023-02-22T00:00:00.000,51059,Northern,Northern,Local Health Departments,Pfizer 12+,1,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer BV 12+,2,2
+2023-02-22T00:00:00.000,51059,Northern,Northern,Local Health Departments,Pfizer 5-11,2,2
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer BV 12+,4,40
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Moderna 0-5,2,4
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer BV 5-11,4,6
+2023-02-22T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer BV 0-4,3,2
+2023-02-22T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,5,2
+2023-02-22T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer 0-4,2,2
+2023-02-22T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Moderna,1,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Moderna BV 0-5,3,5
+2023-02-22T00:00:00.000,51059,Northern,Northern,Local Health Departments,Moderna BV 0-5,3,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,3,2
+2023-02-22T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer 5-11,2,2
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer,1,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer 0-4,1,12
+2023-02-22T00:00:00.000,51059,Northern,Northern,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer 12+,2,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Pharmacies,Moderna BV,5,1
+2023-02-22T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer 0-4,1,2
+2023-02-22T00:00:00.000,51061,Fauquier,Northwest,Medical Practices,Moderna BV,5,1
+2023-02-22T00:00:00.000,51061,Fauquier,Northwest,Medical Practices,Moderna BV,4,1
+2023-02-22T00:00:00.000,51061,Fauquier,Northwest,Medical Practices,Pfizer BV 12+,4,3
+2023-02-22T00:00:00.000,51061,Fauquier,Northwest,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51061,Fauquier,Northwest,Medical Practices,Pfizer BV 5-11,3,1
+2023-02-22T00:00:00.000,51061,Fauquier,Northwest,Other Community Health Providers,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51065,Fluvanna,Eastren,Medical Practices,Moderna BV,5,1
+2023-02-22T00:00:00.000,51065,Fluvanna,Eastren,Medical Practices,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51065,Fluvanna,Eastren,Medical Practices,Pfizer,2,1
+2023-02-22T00:00:00.000,51067,Franklin County,Southwest,Pharmacies,Moderna BV,3,1
+2023-02-22T00:00:00.000,51069,Frederick,Northwest,Medical Practices,Moderna BV,4,1
+2023-02-22T00:00:00.000,51069,Frederick,Northwest,Medical Practices,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51069,Frederick,Northwest,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51073,Gloucester,Eastern,Hospitals,Pfizer 12+,1,1
+2023-02-22T00:00:00.000,51073,Gloucester,Eastern,Medical Practices,Pfizer BV 12+,5,3
+2023-02-22T00:00:00.000,51073,Gloucester,Eastern,Local Health Departments,Moderna 0-5,3,1
+2023-02-22T00:00:00.000,51073,Gloucester,Eastern,Local Health Departments,Moderna 0-5,1,1
+2023-02-22T00:00:00.000,51073,Gloucester,Eastern,Other Community Health Providers,Pfizer BV 12+,5,3
+2023-02-22T00:00:00.000,51075,Goochland,Central,Other Community Health Providers,Moderna BV,4,1
+2023-02-22T00:00:00.000,51079,Greene,Eastren,Medical Practices,Pfizer 0-4,2,1
+2023-02-22T00:00:00.000,51079,Greene,Eastren,Medical Practices,Moderna 0-5,2,1
+2023-02-22T00:00:00.000,51079,Greene,Eastren,Medical Practices,Moderna BV,4,1
+2023-02-22T00:00:00.000,51081,Greensville,Central,Pharmacies,Moderna BV,3,1
+2023-02-22T00:00:00.000,51083,Halifax,Central,Medical Practices,Pfizer BV 5-11,3,2
+2023-02-22T00:00:00.000,51083,Halifax,Central,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51083,Halifax,Central,Pharmacies,Moderna BV,5,1
+2023-02-22T00:00:00.000,51083,Halifax,Central,Hospitals,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51085,Hanover,Central,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51085,Hanover,Central,Medical Practices,Pfizer BV 5-11,4,1
+2023-02-22T00:00:00.000,51085,Hanover,Central,Medical Practices,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51085,Hanover,Central,Medical Practices,Moderna BV,5,2
+2023-02-22T00:00:00.000,51085,Hanover,Central,Medical Practices,Pfizer 0-4,1,1
+2023-02-22T00:00:00.000,51085,Hanover,Central,Medical Practices,Pfizer 0-4,2,1
+2023-02-22T00:00:00.000,51085,Hanover,Central,Medical Practices,Pfizer BV 0-4,3,1
+2023-02-22T00:00:00.000,51085,Hanover,Central,Medical Practices,Pfizer BV 12+,2,1
+2023-02-22T00:00:00.000,51085,Hanover,Central,Medical Practices,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51087,Central,Central,Hospitals,Pfizer BV 12+,5,2
+2023-02-22T00:00:00.000,51087,Central,Central,Other Community Health Providers,Moderna,1,1
+2023-02-22T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer BV 12+,3,2
+2023-02-22T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer 0-4,2,4
+2023-02-22T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer BV 5-11,4,2
+2023-02-22T00:00:00.000,51087,Central,Central,Pharmacies,Moderna BV,3,1
+2023-02-22T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer 0-4,1,4
+2023-02-22T00:00:00.000,51087,Central,Central,Pharmacies,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer BV 0-4,3,3
+2023-02-22T00:00:00.000,51087,Central,Central,Hospitals,Pfizer 0-4,2,1
+2023-02-22T00:00:00.000,51087,Central,Central,Pharmacies,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer 5-11,1,1
+2023-02-22T00:00:00.000,51087,Central,Central,Medical Practices,Moderna BV,4,1
+2023-02-22T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer,1,1
+2023-02-22T00:00:00.000,51087,Central,Central,Hospitals,Pfizer BV 12+,3,2
+2023-02-22T00:00:00.000,51087,Central,Central,Medical Practices,Moderna BV,3,2
+2023-02-22T00:00:00.000,51087,Central,Central,Pharmacies,Moderna BV,5,2
+2023-02-22T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer BV 12+,4,3
+2023-02-22T00:00:00.000,51087,Central,Central,Hospitals,Moderna BV,3,1
+2023-02-22T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer BV 5-11,3,2
+2023-02-22T00:00:00.000,51087,Central,Central,Hospitals,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51087,Central,Central,Hospitals,Moderna BV,4,1
+2023-02-22T00:00:00.000,51089,Henry,Southwest,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51093,Isle of Wight,Eastern,Medical Practices,Pfizer BV 12+,5,2
+2023-02-22T00:00:00.000,51093,Isle of Wight,Eastern,Medical Practices,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51095,James City,Eastern,Pharmacies,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51095,James City,Eastern,Pharmacies,Pfizer,1,1
+2023-02-22T00:00:00.000,51095,James City,Eastern,Hospitals,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51095,James City,Eastern,Pharmacies,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51097,King and Queen,Eastern,Local Health Departments,Pfizer 12+,2,1
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer 0-4,1,1
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Moderna BV 0-5,3,3
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Moderna 0-5,1,2
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer 5-11,1,2
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer BV 12+,5,7
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer 0-4,2,2
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer BV 12+,4,9
+2023-02-22T00:00:00.000,51107,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51107,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,4,3
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Moderna BV,3,1
+2023-02-22T00:00:00.000,51107,Northern,Northern,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer BV 0-4,3,2
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Moderna BV,4,2
+2023-02-22T00:00:00.000,51107,Northern,Northern,Pharmacies,Moderna BV,3,1
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer BV 5-11,3,9
+2023-02-22T00:00:00.000,51107,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer BV 5-11,4,1
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer BV 12+,3,10
+2023-02-22T00:00:00.000,51107,Northern,Northern,Pharmacies,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51107,Northern,Northern,Medical Practices,Moderna 0-5,2,1
+2023-02-22T00:00:00.000,51109,Louisa,Eastren,Medical Practices,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51109,Louisa,Eastren,Hospitals,Moderna BV,4,1
+2023-02-22T00:00:00.000,51109,Louisa,Eastren,Medical Practices,Moderna BV,4,2
+2023-02-22T00:00:00.000,51109,Louisa,Eastren,Pharmacies,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51115,Mathews,Eastern,Pharmacies,Pfizer,1,1
+2023-02-22T00:00:00.000,51115,Mathews,Eastern,Pharmacies,Moderna BV,3,1
+2023-02-22T00:00:00.000,51115,Mathews,Eastern,Medical Practices,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51115,Mathews,Eastern,Pharmacies,Moderna BV,5,1
+2023-02-22T00:00:00.000,51117,Mecklenburg,Central,Medical Practices,Moderna BV,4,2
+2023-02-22T00:00:00.000,51119,Middlesex,Eastern,Local Health Departments,Pfizer 12+,2,1
+2023-02-22T00:00:00.000,51119,Middlesex,Eastern,Medical Practices,Pfizer 0-4,1,1
+2023-02-22T00:00:00.000,51119,Middlesex,Eastern,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51119,Middlesex,Eastern,Medical Practices,Pfizer,1,1
+2023-02-22T00:00:00.000,51119,Middlesex,Eastern,Medical Practices,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51121,Montgomery,Southwest,Other Community Health Providers,Pfizer,1,1
+2023-02-22T00:00:00.000,51121,Montgomery,Southwest,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51121,Montgomery,Southwest,Pharmacies,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51125,Nelson,Eastren,Pharmacies,Pfizer BV 12+,4,2
+2023-02-22T00:00:00.000,51125,Nelson,Eastren,Medical Practices,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51127,New Kent,Central,Other Community Health Providers,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51127,New Kent,Central,Medical Practices,Pfizer 0-4,2,1
+2023-02-22T00:00:00.000,51127,New Kent,Central,Other Community Health Providers,Moderna,1,1
+2023-02-22T00:00:00.000,51131,NortEastern,Eastern,Medical Practices,Moderna BV,4,1
+2023-02-22T00:00:00.000,51131,NortEastern,Eastern,Other Community Health Providers,Pfizer 0-4,1,1
+2023-02-22T00:00:00.000,51131,NortEastern,Eastern,Other Community Health Providers,Pfizer 5-11,2,1
+2023-02-22T00:00:00.000,51131,NortEastern,Eastern,Other Community Health Providers,Moderna BV,4,1
+2023-02-22T00:00:00.000,51135,Nottoway,Central,Medical Practices,Moderna BV,4,1
+2023-02-22T00:00:00.000,51137,Orange,Northwest,Other Community Health Providers,Moderna BV,3,1
+2023-02-22T00:00:00.000,51137,Orange,Northwest,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51137,Orange,Northwest,Medical Practices,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51139,Page,Northwest,Pharmacies,Pfizer 0-4,2,1
+2023-02-22T00:00:00.000,51139,Page,Northwest,Other Community Health Providers,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51147,Prince Edward,Central,Other Community Health Providers,Moderna BV,4,1
+2023-02-22T00:00:00.000,51153,Northern,Northern,Pharmacies,Moderna BV,3,2
+2023-02-22T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer BV 12+,4,23
+2023-02-22T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer 5-11,1,1
+2023-02-22T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer 0-4,2,1
+2023-02-22T00:00:00.000,51153,Northern,Northern,Medical Practices,Moderna 0-5,2,1
+2023-02-22T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer BV 0-4,3,7
+2023-02-22T00:00:00.000,51153,Northern,Northern,Medical Practices,Moderna BV,5,3
+2023-02-22T00:00:00.000,51153,Northern,Northern,Pharmacies,Pfizer BV 12+,4,5
+2023-02-22T00:00:00.000,51153,Northern,Northern,Medical Practices,Moderna BV,4,4
+2023-02-22T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer BV 12+,3,11
+2023-02-22T00:00:00.000,51153,Northern,Northern,Pharmacies,Moderna BV,4,3
+2023-02-22T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer BV 12+,5,5
+2023-02-22T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer 12+,2,1
+2023-02-22T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer 0-4,1,2
+2023-02-22T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer 12+,1,2
+2023-02-22T00:00:00.000,51153,Northern,Northern,Pharmacies,Moderna BV,2,1
+2023-02-22T00:00:00.000,51153,Northern,Northern,Pharmacies,Pfizer BV 12+,3,7
+2023-02-22T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer BV 5-11,3,7
+2023-02-22T00:00:00.000,51153,Northern,Northern,Pharmacies,Moderna BV,5,1
+2023-02-22T00:00:00.000,51155,Pulaski,Southwest,Pharmacies,Pfizer BV 12+,4,4
+2023-02-22T00:00:00.000,51157,Northwest,Northwest,Pharmacies,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51159,Central County,Eastern,Medical Practices,Pfizer BV 5-11,3,1
+2023-02-22T00:00:00.000,51161,Southwest County,Southwest,Pharmacies,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51161,Southwest County,Southwest,Medical Practices,Pfizer 0-4,1,1
+2023-02-22T00:00:00.000,51161,Southwest County,Southwest,Medical Practices,Pfizer 5-11,1,1
+2023-02-22T00:00:00.000,51163,Rockbridge,Northwest,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51165,Rockingham,Northwest,Pharmacies,Moderna BV,5,1
+2023-02-22T00:00:00.000,51165,Rockingham,Northwest,Medical Practices,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51165,Rockingham,Northwest,Medical Practices,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51171,Shenandoah,Northwest,Medical Practices,J&J,1,1
+2023-02-22T00:00:00.000,51171,Shenandoah,Northwest,Medical Practices,Moderna BV,4,1
+2023-02-22T00:00:00.000,51175,SoutEastern,Eastern,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51177,Spotsylvania,Northwest,Medical Practices,Pfizer BV 12+,4,2
+2023-02-22T00:00:00.000,51177,Spotsylvania,Northwest,Other Community Health Providers,Moderna BV,4,2
+2023-02-22T00:00:00.000,51177,Spotsylvania,Northwest,Pharmacies,Moderna BV,4,2
+2023-02-22T00:00:00.000,51177,Spotsylvania,Northwest,Pharmacies,Moderna BV,5,1
+2023-02-22T00:00:00.000,51179,Stafford,Northwest,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51179,Stafford,Northwest,Medical Practices,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51179,Stafford,Northwest,Medical Practices,Pfizer 0-4,1,1
+2023-02-22T00:00:00.000,51179,Stafford,Northwest,Other Community Health Providers,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51183,Sussex,Central,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51185,Tazewell,Southwest,Pharmacies,Pfizer BV 12+,4,2
+2023-02-22T00:00:00.000,51185,Tazewell,Southwest,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51195,Wise,Southwest,Pharmacies,Moderna BV,3,1
+2023-02-22T00:00:00.000,51195,Wise,Southwest,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51199,York,Eastern,Medical Practices,Moderna BV,5,1
+2023-02-22T00:00:00.000,51510,Northern,Northern,Medical Practices,Moderna BV,3,4
+2023-02-22T00:00:00.000,51510,Northern,Northern,Other Community Health Providers,Pfizer 5-11,1,1
+2023-02-22T00:00:00.000,51510,Northern,Northern,Other Community Health Providers,Pfizer 0-4,1,4
+2023-02-22T00:00:00.000,51510,Northern,Northern,Medical Practices,Moderna 0-5,2,4
+2023-02-22T00:00:00.000,51510,Northern,Northern,Medical Practices,Moderna 0-5,1,3
+2023-02-22T00:00:00.000,51510,Northern,Northern,Pharmacies,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51510,Northern,Northern,Medical Practices,Pfizer BV 12+,3,2
+2023-02-22T00:00:00.000,51510,Northern,Northern,Medical Practices,Pfizer BV 12+,4,5
+2023-02-22T00:00:00.000,51510,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,5,2
+2023-02-22T00:00:00.000,51510,Northern,Northern,Medical Practices,Pfizer 0-4,2,1
+2023-02-22T00:00:00.000,51510,Northern,Northern,Pharmacies,Pfizer BV 12+,4,3
+2023-02-22T00:00:00.000,51510,Northern,Northern,Other Community Health Providers,Pfizer 0-4,2,2
+2023-02-22T00:00:00.000,51510,Northern,Northern,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51510,Northern,Northern,Other Community Health Providers,Pfizer 12+,2,1
+2023-02-22T00:00:00.000,51510,Northern,Northern,Other Community Health Providers,Pfizer BV 5-11,4,1
+2023-02-22T00:00:00.000,51510,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,4,3
+2023-02-22T00:00:00.000,51510,Northern,Northern,Medical Practices,Pfizer BV 5-11,3,1
+2023-02-22T00:00:00.000,51510,Northern,Northern,Medical Practices,Moderna BV,5,1
+2023-02-22T00:00:00.000,51510,Northern,Northern,Medical Practices,Pfizer 5-11,1,2
+2023-02-22T00:00:00.000,51510,Northern,Northern,Medical Practices,Pfizer BV 0-4,3,1
+2023-02-22T00:00:00.000,51530,Buena Vista City,Northwest,Pharmacies,Moderna BV,5,1
+2023-02-22T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Pfizer BV 0-4,3,1
+2023-02-22T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Moderna BV 0-5,3,1
+2023-02-22T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Pfizer 0-4,1,1
+2023-02-22T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Moderna BV,4,2
+2023-02-22T00:00:00.000,51540,Charlottesville,Eastren,Pharmacies,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Pfizer BV 12+,4,8
+2023-02-22T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Moderna 0-5,1,1
+2023-02-22T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Pfizer BV 12+,3,3
+2023-02-22T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Pfizer 0-4,2,2
+2023-02-22T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Pfizer 12+,2,1
+2023-02-22T00:00:00.000,51550,Eastern,Eastern,Medical Practices,Pfizer BV 12+,4,2
+2023-02-22T00:00:00.000,51550,Eastern,Eastern,Medical Practices,Moderna BV,5,2
+2023-02-22T00:00:00.000,51550,Eastern,Eastern,Pharmacies,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51550,Eastern,Eastern,Pharmacies,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51550,Eastern,Eastern,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51550,Eastern,Eastern,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51570,Colonial Heights,Central,Pharmacies,Moderna BV,3,1
+2023-02-22T00:00:00.000,51570,Colonial Heights,Central,Other Community Health Providers,Moderna BV,4,1
+2023-02-22T00:00:00.000,51590,Danville,Southwest,Pharmacies,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51590,Danville,Southwest,Pharmacies,Moderna BV,5,1
+2023-02-22T00:00:00.000,51610,Falls Church,Northern,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51610,Falls Church,Northern,Medical Practices,Moderna BV,4,1
+2023-02-22T00:00:00.000,51610,Falls Church,Northern,Medical Practices,Pfizer 0-4,2,2
+2023-02-22T00:00:00.000,51610,Falls Church,Northern,Medical Practices,Pfizer BV 0-4,3,1
+2023-02-22T00:00:00.000,51610,Falls Church,Northern,Medical Practices,Moderna BV 0-5,3,1
+2023-02-22T00:00:00.000,51620,Franklin City,Eastern,Pharmacies,Moderna BV,3,1
+2023-02-22T00:00:00.000,51630,Fredericksburg,Northwest,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51630,Fredericksburg,Northwest,Other Community Health Providers,Moderna BV,4,1
+2023-02-22T00:00:00.000,51630,Fredericksburg,Northwest,Other Community Health Providers,Moderna,1,1
+2023-02-22T00:00:00.000,51650,Eastern,Eastern,Hospitals,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51650,Eastern,Eastern,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51650,Eastern,Eastern,Pharmacies,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51660,Harrisonburg,Northwest,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51660,Harrisonburg,Northwest,Medical Practices,Moderna BV,4,1
+2023-02-22T00:00:00.000,51670,Hopewell,Central,Hospitals,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51670,Hopewell,Central,Medical Practices,Pfizer 5-11,1,1
+2023-02-22T00:00:00.000,51680,Lynchburg,Southwest,Medical Practices,Pfizer,2,1
+2023-02-22T00:00:00.000,51680,Lynchburg,Southwest,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51680,Lynchburg,Southwest,Hospitals,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51680,Lynchburg,Southwest,Other Community Health Providers,Moderna BV,5,1
+2023-02-22T00:00:00.000,51683,Manassas City,Northern,Medical Practices,Pfizer BV 12+,3,3
+2023-02-22T00:00:00.000,51683,Manassas City,Northern,Medical Practices,Pfizer BV 0-4,3,2
+2023-02-22T00:00:00.000,51683,Manassas City,Northern,Medical Practices,Pfizer BV 12+,4,3
+2023-02-22T00:00:00.000,51683,Manassas City,Northern,Medical Practices,Pfizer 12+,2,1
+2023-02-22T00:00:00.000,51683,Manassas City,Northern,Medical Practices,J&J,1,1
+2023-02-22T00:00:00.000,51683,Manassas City,Northern,Medical Practices,Pfizer 12+,1,1
+2023-02-22T00:00:00.000,51700,Newport News,Eastern,Medical Practices,Pfizer 5-11,2,1
+2023-02-22T00:00:00.000,51700,Newport News,Eastern,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51700,Newport News,Eastern,Medical Practices,Pfizer 12+,1,1
+2023-02-22T00:00:00.000,51700,Newport News,Eastern,Pharmacies,Moderna BV,5,1
+2023-02-22T00:00:00.000,51700,Newport News,Eastern,Hospitals,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51700,Newport News,Eastern,Medical Practices,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51700,Newport News,Eastern,Medical Practices,Pfizer BV 5-11,3,1
+2023-02-22T00:00:00.000,51700,Newport News,Eastern,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51710,Eastern,Eastern,Pharmacies,Pfizer 12+,1,1
+2023-02-22T00:00:00.000,51710,Eastern,Eastern,Pharmacies,Moderna BV,5,1
+2023-02-22T00:00:00.000,51710,Eastern,Eastern,Medical Practices,Moderna BV,3,1
+2023-02-22T00:00:00.000,51710,Eastern,Eastern,Hospitals,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,51710,Eastern,Eastern,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51710,Eastern,Eastern,Medical Practices,Moderna BV,4,1
+2023-02-22T00:00:00.000,51730,Petersburg,Central,Other Community Health Providers,Moderna BV,4,1
+2023-02-22T00:00:00.000,51740,Eastern,Eastern,Medical Practices,Moderna BV,4,1
+2023-02-22T00:00:00.000,51760,Central City,Central,Other Community Health Providers,Moderna,1,1
+2023-02-22T00:00:00.000,51760,Central City,Central,Medical Practices,Pfizer BV 12+,4,3
+2023-02-22T00:00:00.000,51760,Central City,Central,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51760,Central City,Central,Medical Practices,Pfizer BV 5-11,3,2
+2023-02-22T00:00:00.000,51760,Central City,Central,Hospitals,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51760,Central City,Central,Medical Practices,Pfizer 0-4,1,3
+2023-02-22T00:00:00.000,51760,Central City,Central,Hospitals,Pfizer BV 12+,4,3
+2023-02-22T00:00:00.000,51760,Central City,Central,Hospitals,Pfizer 5-11,1,1
+2023-02-22T00:00:00.000,51760,Central City,Central,Hospitals,Pfizer BV 12+,5,3
+2023-02-22T00:00:00.000,51760,Central City,Central,Medical Practices,Pfizer BV 0-4,3,3
+2023-02-22T00:00:00.000,51760,Central City,Central,Medical Practices,Pfizer 0-4,2,2
+2023-02-22T00:00:00.000,51760,Central City,Central,Medical Practices,Pfizer,2,1
+2023-02-22T00:00:00.000,51760,Central City,Central,Medical Practices,Moderna BV,5,1
+2023-02-22T00:00:00.000,51760,Central City,Central,Medical Practices,Moderna 0-5,1,1
+2023-02-22T00:00:00.000,51760,Central City,Central,Other Community Health Providers,Moderna BV,3,1
+2023-02-22T00:00:00.000,51760,Central City,Central,Other Community Health Providers,Moderna 0-5,1,1
+2023-02-22T00:00:00.000,51760,Central City,Central,Hospitals,Pfizer 0-4,2,2
+2023-02-22T00:00:00.000,51760,Central City,Central,Medical Practices,Moderna BV,3,2
+2023-02-22T00:00:00.000,51760,Central City,Central,Hospitals,Moderna BV,4,1
+2023-02-22T00:00:00.000,51770,Southwest City,Southwest,Medical Practices,Pfizer BV 12+,4,3
+2023-02-22T00:00:00.000,51770,Southwest City,Southwest,Medical Practices,Pfizer 12+,2,1
+2023-02-22T00:00:00.000,51770,Southwest City,Southwest,Medical Practices,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51770,Southwest City,Southwest,Other Community Health Providers,Pfizer BV 12+,4,2
+2023-02-22T00:00:00.000,51770,Southwest City,Southwest,Other Community Health Providers,Moderna BV,4,2
+2023-02-22T00:00:00.000,51790,Staunton,Northwest,Medical Practices,Pfizer BV 12+,4,3
+2023-02-22T00:00:00.000,51790,Staunton,Northwest,Medical Practices,Pfizer BV 12+,5,2
+2023-02-22T00:00:00.000,51800,Suffolk,Eastern,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51810,Eastern,Eastern,Medical Practices,Pfizer BV 12+,3,4
+2023-02-22T00:00:00.000,51810,Eastern,Eastern,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51810,Eastern,Eastern,Medical Practices,Pfizer 5-11,2,1
+2023-02-22T00:00:00.000,51810,Eastern,Eastern,Pharmacies,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51810,Eastern,Eastern,Pharmacies,Moderna BV,5,1
+2023-02-22T00:00:00.000,51810,Eastern,Eastern,Medical Practices,Pfizer BV 5-11,3,1
+2023-02-22T00:00:00.000,51810,Eastern,Eastern,Pharmacies,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51810,Eastern,Eastern,Pharmacies,Pfizer BV 12+,4,2
+2023-02-22T00:00:00.000,51810,Eastern,Eastern,Medical Practices,Pfizer BV 0-4,3,2
+2023-02-22T00:00:00.000,51810,Eastern,Eastern,Pharmacies,Moderna BV,4,1
+2023-02-22T00:00:00.000,51820,Waynesboro,Northwest,Hospitals,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,51820,Waynesboro,Northwest,Medical Practices,Pfizer BV 12+,4,2
+2023-02-22T00:00:00.000,51820,Waynesboro,Northwest,Medical Practices,Pfizer,1,1
+2023-02-22T00:00:00.000,51820,Waynesboro,Northwest,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,51820,Waynesboro,Northwest,Medical Practices,Moderna BV,3,2
+2023-02-22T00:00:00.000,51820,Waynesboro,Northwest,Medical Practices,Moderna BV,4,1
+2023-02-22T00:00:00.000,51840,Winchester,Northwest,Pharmacies,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Medical Practices,Pfizer 0-4,3,1
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Pharmacies,Pfizer BV 12+,4,1
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Medical Practices,Pfizer 5-11,1,1
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Other Community Health Providers,Moderna,1,3
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Medical Practices,Pfizer BV 12+,3,3
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Medical Practices,Pfizer BV 5-11,3,1
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Local Health Departments,Moderna BV 0-5,3,1
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Medical Practices,Pfizer BV 0-4,3,3
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Medical Practices,Moderna 0-5,2,2
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Medical Practices,Moderna BV,5,2
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Hospitals,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Medical Practices,Pfizer 0-4,1,2
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Pharmacies,Pfizer BV 12+,3,1
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Other Community Health Providers,Moderna BV,4,1
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Pharmacies,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Other Community Health Providers,Moderna,2,1
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Medical Practices,Pfizer BV 12+,5,5
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Medical Practices,Pfizer 5-11,2,1
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Medical Practices,Pfizer 0-4,2,3
+2023-02-22T00:00:00.000,Not Reported,Not Reported,Not Reported,Other Community Health Providers,Moderna BV,3,1
+2023-02-22T00:00:00.000,Out of State,Out of State,Out of State,Medical Practices,Pfizer BV 12+,5,1
+2023-02-22T00:00:00.000,Out of State,Out of State,Out of State,Medical Practices,Moderna BV,4,2
+2023-02-22T00:00:00.000,Out of State,Out of State,Out of State,Medical Practices,Pfizer 0-4,1,1
+2023-02-22T00:00:00.000,Out of State,Out of State,Out of State,Medical Practices,Pfizer BV 12+,3,2
+2023-02-22T00:00:00.000,Out of State,Out of State,Out of State,Pharmacies,Moderna BV,3,1
+2023-02-22T00:00:00.000,Out of State,Out of State,Out of State,Medical Practices,Pfizer BV 12+,4,2
+2023-02-22T00:00:00.000,Out of State,Out of State,Out of State,Medical Practices,Moderna 0-5,2,1
+2023-02-22T00:00:00.000,Out of State,Out of State,Out of State,Medical Practices,Moderna 0-5,1,1
+2023-02-21T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Moderna BV,5,1
+2023-02-21T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Moderna BV,2,1
+2023-02-21T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Moderna BV,4,4
+2023-02-21T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Moderna,1,1
+2023-02-21T00:00:00.000,51001,Accomack,Eastern,Medical Practices,Moderna BV,4,2
+2023-02-21T00:00:00.000,51001,Accomack,Eastern,Other Community Health Providers,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Pharmacies,Moderna BV,5,2
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Moderna 0-5,2,2
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer 5-11,1,1
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer BV 12+,3,2
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer 0-4,1,2
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer BV 12+,4,4
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer BV 0-4,3,1
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer 12+,1,2
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Other Community Health Providers,Moderna,2,1
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer BV 12+,5,2
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Moderna 0-5,1,1
+2023-02-21T00:00:00.000,51003,Albemarle,Eastren,Medical Practices,Moderna BV,3,2
+2023-02-21T00:00:00.000,51005,Southwest,Southwest,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51007,Amelia,Central,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51009,Amherst,Southwest,Pharmacies,Moderna BV,5,3
+2023-02-21T00:00:00.000,51009,Amherst,Southwest,Local Health Departments,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51009,Amherst,Southwest,Other Community Health Providers,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51011,Appomattox,Southwest,Pharmacies,Moderna BV,5,1
+2023-02-21T00:00:00.000,51013,Northern,Northern,Pharmacies,Moderna BV,4,2
+2023-02-21T00:00:00.000,51013,Northern,Northern,Pharmacies,Pfizer BV 5-11,4,1
+2023-02-21T00:00:00.000,51013,Northern,Northern,Medical Practices,Moderna BV,4,1
+2023-02-21T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer BV 12+,4,6
+2023-02-21T00:00:00.000,51013,Northern,Northern,Pharmacies,Pfizer BV 12+,4,4
+2023-02-21T00:00:00.000,51013,Northern,Northern,Medical Practices,Moderna BV 0-5,3,4
+2023-02-21T00:00:00.000,51013,Northern,Northern,Pharmacies,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51013,Northern,Northern,Medical Practices,Moderna 0-5,1,1
+2023-02-21T00:00:00.000,51013,Northern,Northern,Medical Practices,Moderna 0-5,2,3
+2023-02-21T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer BV 5-11,4,2
+2023-02-21T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer 0-4,2,2
+2023-02-21T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer 0-4,1,2
+2023-02-21T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51013,Northern,Northern,Medical Practices,Pfizer BV 12+,5,2
+2023-02-21T00:00:00.000,51015,Augusta,Northwest,Medical Practices,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51015,Augusta,Northwest,Local Health Departments,Moderna BV,5,1
+2023-02-21T00:00:00.000,51015,Augusta,Northwest,Local Health Departments,Moderna BV,3,1
+2023-02-21T00:00:00.000,51015,Augusta,Northwest,Medical Practices,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51015,Augusta,Northwest,Local Health Departments,Moderna,1,1
+2023-02-21T00:00:00.000,51015,Augusta,Northwest,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51015,Augusta,Northwest,Hospitals,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51015,Augusta,Northwest,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51015,Augusta,Northwest,Local Health Departments,Moderna,2,1
+2023-02-21T00:00:00.000,51015,Augusta,Northwest,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51017,Bath,Northwest,Local Health Departments,Moderna BV,4,1
+2023-02-21T00:00:00.000,51019,Bedford,Southwest,Pharmacies,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51019,Bedford,Southwest,Medical Practices,Moderna BV,3,1
+2023-02-21T00:00:00.000,51023,Botetourt,Southwest,Pharmacies,Moderna BV,5,1
+2023-02-21T00:00:00.000,51023,Botetourt,Southwest,Pharmacies,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51025,Brunswick,Central,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51029,Buckingham,Central,Other Community Health Providers,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51031,Campbell,Southwest,Other Community Health Providers,Moderna,1,1
+2023-02-21T00:00:00.000,51031,Campbell,Southwest,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51031,Campbell,Southwest,Other Community Health Providers,Moderna,2,1
+2023-02-21T00:00:00.000,51033,Caroline,Northwest,Medical Practices,Pfizer 0-4,1,2
+2023-02-21T00:00:00.000,51033,Caroline,Northwest,Pharmacies,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51033,Caroline,Northwest,Hospitals,Pfizer BV 12+,2,1
+2023-02-21T00:00:00.000,51035,Carroll,Southwest,Pharmacies,Moderna BV,5,1
+2023-02-21T00:00:00.000,51036,Charles City,Central,Other Community Health Providers,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer 0-4,1,4
+2023-02-21T00:00:00.000,51041,Central,Central,Pharmacies,Pfizer BV 12+,4,6
+2023-02-21T00:00:00.000,51041,Central,Central,Pharmacies,Moderna BV,4,2
+2023-02-21T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer 5-11,1,1
+2023-02-21T00:00:00.000,51041,Central,Central,Pharmacies,Pfizer BV 12+,5,3
+2023-02-21T00:00:00.000,51041,Central,Central,Hospitals,Pfizer BV 12+,3,3
+2023-02-21T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer BV 0-4,3,2
+2023-02-21T00:00:00.000,51041,Central,Central,Hospitals,Pfizer BV 0-4,3,1
+2023-02-21T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer BV 5-11,3,3
+2023-02-21T00:00:00.000,51041,Central,Central,Medical Practices,Moderna BV,5,1
+2023-02-21T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51041,Central,Central,Pharmacies,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51041,Central,Central,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51041,Central,Central,Medical Practices,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51041,Central,Central,Pharmacies,Pfizer BV 12+,3,2
+2023-02-21T00:00:00.000,51043,Clarke,Northwest,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51043,Clarke,Northwest,Pharmacies,Moderna BV,4,2
+2023-02-21T00:00:00.000,51045,Craig,Southwest,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51047,Culpeper,Northwest,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51047,Culpeper,Northwest,Medical Practices,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51047,Culpeper,Northwest,Medical Practices,Pfizer BV 0-4,3,1
+2023-02-21T00:00:00.000,51047,Culpeper,Northwest,Pharmacies,Moderna BV,5,1
+2023-02-21T00:00:00.000,51047,Culpeper,Northwest,Medical Practices,Pfizer 5-11,1,1
+2023-02-21T00:00:00.000,51047,Culpeper,Northwest,Hospitals,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51051,Dickenson,Southwest,Local Health Departments,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51051,Dickenson,Southwest,Local Health Departments,Moderna BV,5,1
+2023-02-21T00:00:00.000,51051,Dickenson,Southwest,Local Health Departments,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51057,Essex,Eastern,Medical Practices,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Pharmacies,Moderna BV,5,6
+2023-02-21T00:00:00.000,51059,Northern,Northern,Pharmacies,Pfizer BV 12+,3,5
+2023-02-21T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer 5-11,2,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Moderna 0-5,1,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Local Health Departments,Pfizer 12+,1,2
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer 5-11,2,4
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer BV 5-11,3,11
+2023-02-21T00:00:00.000,51059,Northern,Northern,Local Health Departments,Pfizer 12+,2,2
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer 0-4,1,24
+2023-02-21T00:00:00.000,51059,Northern,Northern,Local Health Departments,Pfizer 0-4,1,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer 0-4,1,2
+2023-02-21T00:00:00.000,51059,Northern,Northern,Pharmacies,Moderna BV,4,3
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer BV 12+,4,49
+2023-02-21T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Moderna BV,5,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer BV 0-4,3,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer BV 0-4,3,6
+2023-02-21T00:00:00.000,51059,Northern,Northern,Local Health Departments,Pfizer 5-11,1,4
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Moderna BV 0-5,3,7
+2023-02-21T00:00:00.000,51059,Northern,Northern,Local Health Departments,Novavax,1,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer BV 12+,3,20
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer 0-4,3,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Local Health Departments,Moderna 0-5,1,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,4,7
+2023-02-21T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,3,11
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Moderna BV,3,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Moderna BV,4,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Local Health Departments,Pfizer BV 5-11,3,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer BV 5-11,3,2
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer 5-11,1,3
+2023-02-21T00:00:00.000,51059,Northern,Northern,Pharmacies,Pfizer 12+,2,3
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Moderna 0-5,2,4
+2023-02-21T00:00:00.000,51059,Northern,Northern,Local Health Departments,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer 0-4,2,32
+2023-02-21T00:00:00.000,51059,Northern,Northern,Other Community Health Providers,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Moderna BV,5,2
+2023-02-21T00:00:00.000,51059,Northern,Northern,Pharmacies,Pfizer 5-11,2,1
+2023-02-21T00:00:00.000,51059,Northern,Northern,Pharmacies,Pfizer BV 12+,5,10
+2023-02-21T00:00:00.000,51059,Northern,Northern,Pharmacies,Pfizer BV 12+,4,16
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer BV 5-11,4,14
+2023-02-21T00:00:00.000,51059,Northern,Northern,Medical Practices,Pfizer BV 12+,5,14
+2023-02-21T00:00:00.000,51061,Fauquier,Northwest,Medical Practices,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51061,Fauquier,Northwest,Local Health Departments,Moderna BV,4,1
+2023-02-21T00:00:00.000,51061,Fauquier,Northwest,Pharmacies,Moderna,1,1
+2023-02-21T00:00:00.000,51061,Fauquier,Northwest,Medical Practices,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51063,Floyd,Southwest,Medical Practices,Moderna BV,2,1
+2023-02-21T00:00:00.000,51063,Floyd,Southwest,Medical Practices,Pfizer 5-11,2,1
+2023-02-21T00:00:00.000,51065,Fluvanna,Eastren,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51065,Fluvanna,Eastren,Medical Practices,Pfizer 5-11,2,1
+2023-02-21T00:00:00.000,51065,Fluvanna,Eastren,Medical Practices,Moderna BV 0-5,3,3
+2023-02-21T00:00:00.000,51065,Fluvanna,Eastren,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51065,Fluvanna,Eastren,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51067,Franklin County,Southwest,Pharmacies,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51067,Franklin County,Southwest,Medical Practices,Pfizer BV 12+,5,2
+2023-02-21T00:00:00.000,51067,Franklin County,Southwest,Pharmacies,Moderna BV,2,1
+2023-02-21T00:00:00.000,51069,Frederick,Northwest,Pharmacies,Moderna BV,3,2
+2023-02-21T00:00:00.000,51069,Frederick,Northwest,Pharmacies,Moderna BV,5,2
+2023-02-21T00:00:00.000,51069,Frederick,Northwest,Hospitals,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51069,Frederick,Northwest,Medical Practices,Moderna BV,3,1
+2023-02-21T00:00:00.000,51069,Frederick,Northwest,Pharmacies,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51069,Frederick,Northwest,Medical Practices,Pfizer BV 5-11,3,1
+2023-02-21T00:00:00.000,51069,Frederick,Northwest,Other Community Health Providers,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51073,Gloucester,Eastern,Pharmacies,Pfizer BV 12+,5,2
+2023-02-21T00:00:00.000,51073,Gloucester,Eastern,Other Community Health Providers,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51073,Gloucester,Eastern,Other Community Health Providers,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51075,Goochland,Central,Medical Practices,Pfizer BV 5-11,4,1
+2023-02-21T00:00:00.000,51075,Goochland,Central,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51075,Goochland,Central,Other Community Health Providers,Moderna BV,4,1
+2023-02-21T00:00:00.000,51079,Greene,Eastren,Medical Practices,Moderna BV 0-5,3,2
+2023-02-21T00:00:00.000,51079,Greene,Eastren,Pharmacies,Pfizer BV 12+,3,2
+2023-02-21T00:00:00.000,51079,Greene,Eastren,Medical Practices,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51081,Greensville,Central,Pharmacies,Moderna BV,4,4
+2023-02-21T00:00:00.000,51081,Greensville,Central,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51081,Greensville,Central,Pharmacies,Moderna BV,5,3
+2023-02-21T00:00:00.000,51081,Greensville,Central,Hospitals,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51083,Halifax,Central,Pharmacies,Moderna BV,5,1
+2023-02-21T00:00:00.000,51085,Hanover,Central,Medical Practices,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51085,Hanover,Central,Medical Practices,Pfizer BV 5-11,3,1
+2023-02-21T00:00:00.000,51085,Hanover,Central,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51085,Hanover,Central,Medical Practices,Moderna BV,5,1
+2023-02-21T00:00:00.000,51085,Hanover,Central,Pharmacies,Pfizer BV 12+,3,2
+2023-02-21T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51087,Central,Central,Local Health Departments,Novavax,1,1
+2023-02-21T00:00:00.000,51087,Central,Central,Other Community Health Providers,Moderna BV,3,1
+2023-02-21T00:00:00.000,51087,Central,Central,Hospitals,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51087,Central,Central,Pharmacies,Pfizer BV 5-11,4,1
+2023-02-21T00:00:00.000,51087,Central,Central,Hospitals,Pfizer 0-4,1,2
+2023-02-21T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer 0-4,2,3
+2023-02-21T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer 5-11,2,2
+2023-02-21T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer BV 0-4,3,3
+2023-02-21T00:00:00.000,51087,Central,Central,Other Community Health Providers,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51087,Central,Central,Other Community Health Providers,Pfizer BV 12+,4,4
+2023-02-21T00:00:00.000,51087,Central,Central,Pharmacies,Pfizer BV 12+,4,4
+2023-02-21T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer,2,2
+2023-02-21T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer BV 5-11,3,4
+2023-02-21T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer BV 12+,4,4
+2023-02-21T00:00:00.000,51087,Central,Central,Other Community Health Providers,Moderna,2,2
+2023-02-21T00:00:00.000,51087,Central,Central,Other Community Health Providers,Moderna BV,2,2
+2023-02-21T00:00:00.000,51087,Central,Central,Pharmacies,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51087,Central,Central,Other Community Health Providers,Moderna 0-5,2,1
+2023-02-21T00:00:00.000,51087,Central,Central,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51087,Central,Central,Pharmacies,Pfizer BV 12+,5,3
+2023-02-21T00:00:00.000,51087,Central,Central,Hospitals,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51087,Central,Central,Other Community Health Providers,Moderna BV,4,1
+2023-02-21T00:00:00.000,51087,Central,Central,Pharmacies,Moderna BV,5,1
+2023-02-21T00:00:00.000,51087,Central,Central,Medical Practices,Pfizer 0-4,1,1
+2023-02-21T00:00:00.000,51089,Henry,Southwest,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51089,Henry,Southwest,Pharmacies,Pfizer BV 12+,4,3
+2023-02-21T00:00:00.000,51093,Isle of Wight,Eastern,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51093,Isle of Wight,Eastern,Medical Practices,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51093,Isle of Wight,Eastern,Medical Practices,Pfizer BV 12+,4,3
+2023-02-21T00:00:00.000,51095,James City,Eastern,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51095,James City,Eastern,Medical Practices,Moderna BV,4,1
+2023-02-21T00:00:00.000,51095,James City,Eastern,Pharmacies,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51095,James City,Eastern,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51095,James City,Eastern,Pharmacies,Pfizer,1,1
+2023-02-21T00:00:00.000,51095,James City,Eastern,Pharmacies,Pfizer BV 12+,5,2
+2023-02-21T00:00:00.000,51095,James City,Eastern,Medical Practices,Pfizer BV 5-11,3,2
+2023-02-21T00:00:00.000,51095,James City,Eastern,Medical Practices,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51097,King and Queen,Eastern,Pharmacies,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51099,King George,Northwest,Medical Practices,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51101,King William,Eastern,Pharmacies,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51105,Lee,Southwest,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Local Health Departments,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Pharmacies,Moderna BV,4,7
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer 0-4,2,15
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer 5-11,1,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Pharmacies,Moderna BV,5,2
+2023-02-21T00:00:00.000,51107,Northern,Northern,Other Community Health Providers,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Pharmacies,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer BV 12+,5,4
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer BV 5-11,3,6
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer BV 12+,4,18
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Moderna BV 0-5,3,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer 0-4,1,7
+2023-02-21T00:00:00.000,51107,Northern,Northern,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer BV 0-4,3,7
+2023-02-21T00:00:00.000,51107,Northern,Northern,Other Community Health Providers,Pfizer 5-11,1,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Pharmacies,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Other Community Health Providers,Pfizer BV 5-11,3,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Pharmacies,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51107,Northern,Northern,Local Health Departments,Moderna 0-5,2,2
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Moderna 0-5,2,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer BV 12+,3,5
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer BV 5-11,4,4
+2023-02-21T00:00:00.000,51107,Northern,Northern,Other Community Health Providers,Pfizer 0-4,1,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Moderna BV,4,2
+2023-02-21T00:00:00.000,51107,Northern,Northern,Local Health Departments,Moderna 0-5,1,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Medical Practices,Pfizer 5-11,2,4
+2023-02-21T00:00:00.000,51107,Northern,Northern,Other Community Health Providers,Pfizer 5-11,2,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Hospitals,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51107,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51109,Louisa,Eastren,Pharmacies,Pfizer BV 12+,4,4
+2023-02-21T00:00:00.000,51109,Louisa,Eastren,Medical Practices,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51109,Louisa,Eastren,Medical Practices,Moderna BV 0-5,3,2
+2023-02-21T00:00:00.000,51109,Louisa,Eastren,Medical Practices,Moderna 0-5,1,3
+2023-02-21T00:00:00.000,51111,Lunenburg,Central,Local Health Departments,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51113,Madison,Northwest,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51117,Mecklenburg,Central,Medical Practices,Moderna BV,3,1
+2023-02-21T00:00:00.000,51117,Mecklenburg,Central,Hospitals,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51117,Mecklenburg,Central,Medical Practices,Moderna BV,4,2
+2023-02-21T00:00:00.000,51117,Mecklenburg,Central,Medical Practices,Moderna BV,5,2
+2023-02-21T00:00:00.000,51119,Middlesex,Eastern,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51121,Montgomery,Southwest,Medical Practices,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51121,Montgomery,Southwest,Local Health Departments,Novavax,2,1
+2023-02-21T00:00:00.000,51121,Montgomery,Southwest,Pharmacies,Moderna BV,5,2
+2023-02-21T00:00:00.000,51121,Montgomery,Southwest,Pharmacies,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51125,Nelson,Eastren,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51125,Nelson,Eastren,Pharmacies,Moderna BV,5,1
+2023-02-21T00:00:00.000,51125,Nelson,Eastren,Medical Practices,Pfizer BV 0-4,3,1
+2023-02-21T00:00:00.000,51127,New Kent,Central,Medical Practices,Pfizer 0-4,2,2
+2023-02-21T00:00:00.000,51127,New Kent,Central,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51127,New Kent,Central,Other Community Health Providers,Moderna,1,2
+2023-02-21T00:00:00.000,51127,New Kent,Central,Other Community Health Providers,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51131,NortEastern,Eastern,Other Community Health Providers,Moderna BV,4,1
+2023-02-21T00:00:00.000,51131,NortEastern,Eastern,Other Community Health Providers,Moderna BV,3,1
+2023-02-21T00:00:00.000,51131,NortEastern,Eastern,Other Community Health Providers,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51131,NortEastern,Eastern,Other Community Health Providers,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51133,Northumberland,Eastern,Pharmacies,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51135,Nottoway,Central,Medical Practices,Moderna BV,5,5
+2023-02-21T00:00:00.000,51137,Orange,Northwest,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51137,Orange,Northwest,Medical Practices,Pfizer,1,1
+2023-02-21T00:00:00.000,51139,Page,Northwest,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51139,Page,Northwest,Other Community Health Providers,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51139,Page,Northwest,Pharmacies,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51143,Pittsylvania,Southwest,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51143,Pittsylvania,Southwest,Pharmacies,Moderna BV,4,2
+2023-02-21T00:00:00.000,51143,Pittsylvania,Southwest,Local Health Departments,Moderna,2,1
+2023-02-21T00:00:00.000,51145,Powhatan,Central,Medical Practices,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51145,Powhatan,Central,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51145,Powhatan,Central,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51147,Prince Edward,Central,Local Health Departments,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51147,Prince Edward,Central,Other Community Health Providers,Moderna BV,3,1
+2023-02-21T00:00:00.000,51147,Prince Edward,Central,Pharmacies,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Moderna BV,3,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Pharmacies,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Pharmacies,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer BV 0-4,3,5
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer BV 12+,4,14
+2023-02-21T00:00:00.000,51153,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,3,3
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Moderna BV,4,5
+2023-02-21T00:00:00.000,51153,Northern,Northern,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Pharmacies,Moderna BV,5,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Pharmacies,Moderna BV,4,3
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer BV 5-11,3,4
+2023-02-21T00:00:00.000,51153,Northern,Northern,Local Health Departments,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Pharmacies,Pfizer BV 12+,2,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Pharmacies,Pfizer BV 12+,4,8
+2023-02-21T00:00:00.000,51153,Northern,Northern,Local Health Departments,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Local Health Departments,Pfizer BV 12+,4,3
+2023-02-21T00:00:00.000,51153,Northern,Northern,Other Community Health Providers,Moderna BV,4,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Hospitals,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Moderna,2,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer BV 12+,3,10
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer 12+,1,2
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer 0-4,1,2
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Moderna,1,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Local Health Departments,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer 5-11,1,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Local Health Departments,Pfizer 5-11,2,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Moderna BV,5,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Medical Practices,Pfizer BV 12+,5,2
+2023-02-21T00:00:00.000,51153,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51153,Northern,Northern,Local Health Departments,Pfizer 5-11,1,3
+2023-02-21T00:00:00.000,51155,Pulaski,Southwest,Other Community Health Providers,Moderna BV,4,1
+2023-02-21T00:00:00.000,51155,Pulaski,Southwest,Other Community Health Providers,Moderna BV,5,1
+2023-02-21T00:00:00.000,51155,Pulaski,Southwest,Other Community Health Providers,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51155,Pulaski,Southwest,Other Community Health Providers,Pfizer,1,1
+2023-02-21T00:00:00.000,51155,Pulaski,Southwest,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51161,Southwest County,Southwest,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51161,Southwest County,Southwest,Pharmacies,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51161,Southwest County,Southwest,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51161,Southwest County,Southwest,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51163,Rockbridge,Northwest,Other Community Health Providers,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51165,Rockingham,Northwest,Medical Practices,Moderna BV,5,1
+2023-02-21T00:00:00.000,51165,Rockingham,Northwest,Pharmacies,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51165,Rockingham,Northwest,Medical Practices,Moderna BV,4,1
+2023-02-21T00:00:00.000,51165,Rockingham,Northwest,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51167,Russell,Southwest,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51169,Scott,Southwest,Pharmacies,Moderna BV,4,2
+2023-02-21T00:00:00.000,51169,Scott,Southwest,Pharmacies,Moderna,2,1
+2023-02-21T00:00:00.000,51169,Scott,Southwest,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51171,Shenandoah,Northwest,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51171,Shenandoah,Northwest,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51173,Smyth,Southwest,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51177,Spotsylvania,Northwest,Pharmacies,Moderna BV,5,1
+2023-02-21T00:00:00.000,51177,Spotsylvania,Northwest,Pharmacies,Moderna BV,4,2
+2023-02-21T00:00:00.000,51177,Spotsylvania,Northwest,Pharmacies,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51177,Spotsylvania,Northwest,Medical Practices,Pfizer BV 12+,3,2
+2023-02-21T00:00:00.000,51177,Spotsylvania,Northwest,Local Health Departments,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51177,Spotsylvania,Northwest,Other Community Health Providers,Moderna BV,4,1
+2023-02-21T00:00:00.000,51177,Spotsylvania,Northwest,Medical Practices,Pfizer 5-11,1,1
+2023-02-21T00:00:00.000,51177,Spotsylvania,Northwest,Hospitals,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51177,Spotsylvania,Northwest,Other Community Health Providers,Moderna BV,5,2
+2023-02-21T00:00:00.000,51177,Spotsylvania,Northwest,Medical Practices,Pfizer BV 12+,4,5
+2023-02-21T00:00:00.000,51179,Stafford,Northwest,Medical Practices,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51179,Stafford,Northwest,Medical Practices,Pfizer BV 12+,2,1
+2023-02-21T00:00:00.000,51179,Stafford,Northwest,Other Community Health Providers,Pfizer BV 5-11,3,1
+2023-02-21T00:00:00.000,51179,Stafford,Northwest,Other Community Health Providers,Moderna,2,1
+2023-02-21T00:00:00.000,51179,Stafford,Northwest,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51179,Stafford,Northwest,Pharmacies,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51179,Stafford,Northwest,Other Community Health Providers,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51179,Stafford,Northwest,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51179,Stafford,Northwest,Hospitals,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51179,Stafford,Northwest,Medical Practices,Pfizer BV 12+,3,3
+2023-02-21T00:00:00.000,51183,Sussex,Central,Hospitals,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51185,Tazewell,Southwest,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51187,Warren,Northwest,Hospitals,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51187,Warren,Northwest,Hospitals,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51191,Washington,Southwest,Medical Practices,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51191,Washington,Southwest,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51193,Westmoreland,Eastern,Local Health Departments,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51193,Westmoreland,Eastern,Other Community Health Providers,Moderna BV,4,1
+2023-02-21T00:00:00.000,51193,Westmoreland,Eastern,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51197,Wythe,Southwest,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51197,Wythe,Southwest,Local Health Departments,Moderna,2,1
+2023-02-21T00:00:00.000,51199,York,Eastern,Other Community Health Providers,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51199,York,Eastern,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51199,York,Eastern,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51199,York,Eastern,Pharmacies,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51199,York,Eastern,Medical Practices,Pfizer 0-4,1,1
+2023-02-21T00:00:00.000,51510,Northern,Northern,Medical Practices,Moderna BV,4,3
+2023-02-21T00:00:00.000,51510,Northern,Northern,Other Community Health Providers,Pfizer 5-11,2,1
+2023-02-21T00:00:00.000,51510,Northern,Northern,Other Community Health Providers,Pfizer BV 5-11,3,2
+2023-02-21T00:00:00.000,51510,Northern,Northern,Medical Practices,Pfizer 5-11,1,1
+2023-02-21T00:00:00.000,51510,Northern,Northern,Medical Practices,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51510,Northern,Northern,Medical Practices,Moderna 0-5,1,2
+2023-02-21T00:00:00.000,51510,Northern,Northern,Medical Practices,Pfizer BV 5-11,3,4
+2023-02-21T00:00:00.000,51510,Northern,Northern,Other Community Health Providers,Pfizer BV 12+,3,4
+2023-02-21T00:00:00.000,51510,Northern,Northern,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51510,Northern,Northern,Other Community Health Providers,Moderna BV,4,1
+2023-02-21T00:00:00.000,51510,Northern,Northern,Medical Practices,Pfizer 5-11,2,2
+2023-02-21T00:00:00.000,51510,Northern,Northern,Local Health Departments,Moderna 0-5,1,1
+2023-02-21T00:00:00.000,51510,Northern,Northern,Medical Practices,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51510,Northern,Northern,Other Community Health Providers,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51510,Northern,Northern,Local Health Departments,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51510,Northern,Northern,Medical Practices,Pfizer BV 12+,4,4
+2023-02-21T00:00:00.000,51510,Northern,Northern,Medical Practices,Moderna BV,5,1
+2023-02-21T00:00:00.000,51510,Northern,Northern,Medical Practices,Moderna BV,3,1
+2023-02-21T00:00:00.000,51510,Northern,Northern,Other Community Health Providers,Pfizer 0-4,2,2
+2023-02-21T00:00:00.000,51520,Bristol,Southwest,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51530,Buena Vista City,Northwest,Other Community Health Providers,Moderna BV,2,1
+2023-02-21T00:00:00.000,51540,Charlottesville,Eastren,Hospitals,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Pfizer 0-4,1,1
+2023-02-21T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Pfizer BV 12+,3,3
+2023-02-21T00:00:00.000,51540,Charlottesville,Eastren,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51540,Charlottesville,Eastren,Other Community Health Providers,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51540,Charlottesville,Eastren,Medical Practices,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51540,Charlottesville,Eastren,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51550,Eastern,Eastern,Medical Practices,Moderna BV,4,1
+2023-02-21T00:00:00.000,51550,Eastern,Eastern,Pharmacies,Pfizer BV 12+,4,4
+2023-02-21T00:00:00.000,51550,Eastern,Eastern,Pharmacies,Pfizer BV 12+,5,4
+2023-02-21T00:00:00.000,51550,Eastern,Eastern,Medical Practices,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51550,Eastern,Eastern,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51550,Eastern,Eastern,Medical Practices,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51550,Eastern,Eastern,Medical Practices,Moderna 0-5,2,1
+2023-02-21T00:00:00.000,51550,Eastern,Eastern,Pharmacies,Moderna BV,5,4
+2023-02-21T00:00:00.000,51550,Eastern,Eastern,Pharmacies,Moderna,2,1
+2023-02-21T00:00:00.000,51550,Eastern,Eastern,Pharmacies,Pfizer BV 12+,3,2
+2023-02-21T00:00:00.000,51570,Colonial Heights,Central,Hospitals,Pfizer 0-4,1,1
+2023-02-21T00:00:00.000,51590,Danville,Southwest,Pharmacies,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51590,Danville,Southwest,Local Health Departments,Moderna BV,5,3
+2023-02-21T00:00:00.000,51590,Danville,Southwest,Local Health Departments,Moderna,1,1
+2023-02-21T00:00:00.000,51590,Danville,Southwest,Local Health Departments,Moderna BV,4,1
+2023-02-21T00:00:00.000,51590,Danville,Southwest,Pharmacies,Moderna BV,5,2
+2023-02-21T00:00:00.000,51590,Danville,Southwest,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51610,Falls Church,Northern,Medical Practices,Pfizer BV 5-11,3,1
+2023-02-21T00:00:00.000,51610,Falls Church,Northern,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51610,Falls Church,Northern,Medical Practices,Pfizer BV 12+,5,2
+2023-02-21T00:00:00.000,51620,Franklin City,Eastern,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51630,Fredericksburg,Northwest,Other Community Health Providers,Moderna BV,4,1
+2023-02-21T00:00:00.000,51640,Galax,Southwest,Local Health Departments,Moderna BV,5,1
+2023-02-21T00:00:00.000,51650,Eastern,Eastern,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51650,Eastern,Eastern,Medical Practices,Pfizer,1,1
+2023-02-21T00:00:00.000,51650,Eastern,Eastern,Medical Practices,Pfizer BV 5-11,3,2
+2023-02-21T00:00:00.000,51650,Eastern,Eastern,Medical Practices,Moderna BV,3,1
+2023-02-21T00:00:00.000,51650,Eastern,Eastern,Pharmacies,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51650,Eastern,Eastern,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51650,Eastern,Eastern,Other Community Health Providers,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51650,Eastern,Eastern,Medical Practices,Moderna BV,4,3
+2023-02-21T00:00:00.000,51650,Eastern,Eastern,Pharmacies,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51660,Harrisonburg,Northwest,Local Health Departments,Moderna BV,3,1
+2023-02-21T00:00:00.000,51660,Harrisonburg,Northwest,Local Health Departments,Pfizer 5-11,1,2
+2023-02-21T00:00:00.000,51660,Harrisonburg,Northwest,Medical Practices,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51660,Harrisonburg,Northwest,Local Health Departments,Moderna,1,1
+2023-02-21T00:00:00.000,51660,Harrisonburg,Northwest,Local Health Departments,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51660,Harrisonburg,Northwest,Pharmacies,Moderna BV,4,2
+2023-02-21T00:00:00.000,51660,Harrisonburg,Northwest,Other Community Health Providers,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51660,Harrisonburg,Northwest,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51670,Hopewell,Central,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51670,Hopewell,Central,Pharmacies,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51678,Lexington,Northwest,Other Community Health Providers,Moderna BV,3,2
+2023-02-21T00:00:00.000,51678,Lexington,Northwest,Other Community Health Providers,Moderna BV,5,1
+2023-02-21T00:00:00.000,51678,Lexington,Northwest,Medical Practices,Pfizer BV 12+,3,2
+2023-02-21T00:00:00.000,51678,Lexington,Northwest,Other Community Health Providers,Moderna BV,4,2
+2023-02-21T00:00:00.000,51680,Lynchburg,Southwest,Pharmacies,Moderna BV,5,1
+2023-02-21T00:00:00.000,51680,Lynchburg,Southwest,Local Health Departments,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51680,Lynchburg,Southwest,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51680,Lynchburg,Southwest,Pharmacies,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51680,Lynchburg,Southwest,Local Health Departments,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51680,Lynchburg,Southwest,Hospitals,Moderna BV,3,1
+2023-02-21T00:00:00.000,51683,Manassas City,Northern,Pharmacies,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51683,Manassas City,Northern,Medical Practices,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51683,Manassas City,Northern,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51683,Manassas City,Northern,Pharmacies,Moderna,2,1
+2023-02-21T00:00:00.000,51683,Manassas City,Northern,Medical Practices,Pfizer BV 5-11,3,2
+2023-02-21T00:00:00.000,51683,Manassas City,Northern,Pharmacies,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51700,Newport News,Eastern,Medical Practices,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51700,Newport News,Eastern,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51700,Newport News,Eastern,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51700,Newport News,Eastern,Pharmacies,Pfizer BV 12+,4,3
+2023-02-21T00:00:00.000,51700,Newport News,Eastern,Hospitals,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51700,Newport News,Eastern,Hospitals,Pfizer BV 12+,5,2
+2023-02-21T00:00:00.000,51700,Newport News,Eastern,Medical Practices,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51700,Newport News,Eastern,Pharmacies,Pfizer BV 12+,5,2
+2023-02-21T00:00:00.000,51700,Newport News,Eastern,Medical Practices,Pfizer BV 5-11,3,1
+2023-02-21T00:00:00.000,51700,Newport News,Eastern,Medical Practices,Moderna BV,5,1
+2023-02-21T00:00:00.000,51700,Newport News,Eastern,Pharmacies,Pfizer BV 12+,3,3
+2023-02-21T00:00:00.000,51700,Newport News,Eastern,Medical Practices,Moderna BV,3,1
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Pharmacies,Moderna,2,1
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Hospitals,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Local Health Departments,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Pharmacies,Moderna,1,1
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Pharmacies,Moderna BV,3,2
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Pharmacies,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Pharmacies,Moderna BV,4,2
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Medical Practices,Pfizer BV 12+,4,3
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Pharmacies,Pfizer BV 12+,2,1
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Medical Practices,Pfizer BV 12+,5,2
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Medical Practices,Pfizer BV 5-11,3,2
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Medical Practices,Moderna BV,4,3
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Medical Practices,Moderna BV,3,1
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Pharmacies,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Medical Practices,Moderna BV,5,1
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Medical Practices,Pfizer 0-4,1,2
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Medical Practices,Pfizer BV 5-11,4,1
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Pharmacies,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51710,Eastern,Eastern,Medical Practices,Pfizer BV 12+,3,2
+2023-02-21T00:00:00.000,51730,Petersburg,Central,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51730,Petersburg,Central,Other Community Health Providers,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51730,Petersburg,Central,Pharmacies,Pfizer BV 12+,5,2
+2023-02-21T00:00:00.000,51730,Petersburg,Central,Local Health Departments,Moderna BV,4,1
+2023-02-21T00:00:00.000,51730,Petersburg,Central,Hospitals,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51735,Poquoson,Eastern,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51735,Poquoson,Eastern,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51735,Poquoson,Eastern,Medical Practices,Pfizer BV 5-11,3,1
+2023-02-21T00:00:00.000,51740,Eastern,Eastern,Local Health Departments,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51740,Eastern,Eastern,Pharmacies,Pfizer BV 12+,4,3
+2023-02-21T00:00:00.000,51740,Eastern,Eastern,Local Health Departments,Moderna BV,5,1
+2023-02-21T00:00:00.000,51740,Eastern,Eastern,Local Health Departments,Moderna 0-5,1,1
+2023-02-21T00:00:00.000,51740,Eastern,Eastern,Pharmacies,Pfizer BV 12+,3,3
+2023-02-21T00:00:00.000,51740,Eastern,Eastern,Pharmacies,Moderna BV,3,1
+2023-02-21T00:00:00.000,51740,Eastern,Eastern,Pharmacies,Moderna BV,4,2
+2023-02-21T00:00:00.000,51740,Eastern,Eastern,Hospitals,Pfizer,1,1
+2023-02-21T00:00:00.000,51740,Eastern,Eastern,Medical Practices,Moderna BV,3,2
+2023-02-21T00:00:00.000,51740,Eastern,Eastern,Local Health Departments,Moderna BV,4,2
+2023-02-21T00:00:00.000,51740,Eastern,Eastern,Medical Practices,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51740,Eastern,Eastern,Medical Practices,Moderna BV,4,3
+2023-02-21T00:00:00.000,51740,Eastern,Eastern,Local Health Departments,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51750,Radford,Southwest,Pharmacies,Moderna BV,5,2
+2023-02-21T00:00:00.000,51750,Radford,Southwest,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51750,Radford,Southwest,Pharmacies,Pfizer BV 12+,4,2
+2023-02-21T00:00:00.000,51750,Radford,Southwest,Other Community Health Providers,Moderna BV,4,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Pharmacies,Moderna BV,5,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Hospitals,Pfizer BV 5-11,3,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Pharmacies,Moderna BV,4,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Medical Practices,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Pharmacies,Moderna,1,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Other Community Health Providers,Moderna BV,3,2
+2023-02-21T00:00:00.000,51760,Central City,Central,Local Health Departments,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Medical Practices,Pfizer 0-4,2,3
+2023-02-21T00:00:00.000,51760,Central City,Central,Pharmacies,Pfizer BV 12+,4,3
+2023-02-21T00:00:00.000,51760,Central City,Central,Medical Practices,Pfizer BV 0-4,3,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Other Community Health Providers,Moderna 0-5,1,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Hospitals,Pfizer BV 12+,4,3
+2023-02-21T00:00:00.000,51760,Central City,Central,Other Community Health Providers,Pfizer BV 12+,4,3
+2023-02-21T00:00:00.000,51760,Central City,Central,Pharmacies,Pfizer BV 12+,3,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Other Community Health Providers,Moderna,2,2
+2023-02-21T00:00:00.000,51760,Central City,Central,Medical Practices,Moderna,2,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Hospitals,Pfizer BV 12+,5,2
+2023-02-21T00:00:00.000,51760,Central City,Central,Pharmacies,Pfizer 12+,2,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Pharmacies,Moderna,2,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Hospitals,Pfizer 0-4,1,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Pharmacies,Pfizer 12+,1,3
+2023-02-21T00:00:00.000,51760,Central City,Central,Hospitals,Pfizer 0-4,2,1
+2023-02-21T00:00:00.000,51760,Central City,Central,Other Community Health Providers,Pfizer BV 12+,5,1
+2023-02-21T00:00:00.000,51770,Southwest City,Southwest,Medical Practices,Pfizer 0-4,2,2
+2023-02-21T00:00:00.000,51770,Southwest City,Southwest,Pharmacies,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51770,Southwest City,Southwest,Pharmacies,Pfizer 12+,1,1
+2023-02-21T00:00:00.000,51770,Southwest City,Southwest,Medical Practices,Pfizer BV 12+,4,1
+2023-02-21T00:00:00.000,51770,Southwest City,Southwest,Medical Practices,Pfizer 0-4,1,1
+2023-02-21T00:00:00.000,51770,Southwest City,Southwest,Pharmacies,Moderna BV,4,2
